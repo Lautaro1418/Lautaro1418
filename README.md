@@ -1,7 +1,5 @@
 ### ¡Hola, soy Lautaro Suarez! / Hi, I'm Lautaro Suarez!
-Soy Ingeniero Industrial, Analista de Datos Jr. y estoy formándome como Data Scientist.
-
-Actualmente estoy cursando la carrera de Data Science en Coderhouse, habiendo ya completado 2 de los 4 cursos de la carrera.
+Soy Ingeniero Industrial, Analista de Datos Jr. y estoy formándome como Data Scientist.Actualmente estoy cursando la carrera de Data Science en Coderhouse, habiendo completado 2 de los 4 cursos de la carrera. / I am an Industrial Engineer, Junior Data Analyst, and currently training to become a Data Scientist. I am pursuing the Data Science program at Coderhouse, having already completed 2 out of the 4 courses of the program.
 
 
 ## 🔗 Conecta conmigo
@@ -15,10 +13,10 @@ Actualmente estoy cursando la carrera de Data Science en Coderhouse, habiendo ya
 </p>
 
 ### 🚀 Sobre mí
-- 📊 Experiencia en logística, inventarios, procesos y análisis de datos.
-- 🛠️ Herramientas: **Power BI**, **SQL Server**, **Python**, **Excel avanzado**.  
-- 🎯 Objetivo: crecer como **Data Scientist** aplicando analítica y modelos predictivos.  
-- 🏔️ Me apasionan la montaña.
+- 📊 Experiencia en logística, inventarios, procesos y análisis de datos. / Experience in logistics, inventory management, processes, and data analysis.
+- 🛠️ Herramientas /Tools: **Power BI**, **SQL Server**, **Python**, **Excel**.  
+- 🎯 Objetivo: crecer como **Data Scientist** aplicando analítica y modelos predictivos. / Goal: to grow as a Data Scientist, applying analytics and predictive models.
+- 🏔️ Me apasionan la montaña. / Passionate about the mountains.
 
 
 <!--
